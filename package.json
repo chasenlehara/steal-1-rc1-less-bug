@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "can": "^2.3.16",
-    "jquery": "~2.2.1"
+    "jquery": "~3.5.0"
   },
   "devDependencies": {
     "documentjs": "^0.4.2",
